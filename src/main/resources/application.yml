@@ -1,0 +1,5 @@
+discord:
+  token: "Nzg5NjEyNTk5MjYzNzU2Mjg4.X90mCQ.hfTgOxlebb9nEo6iKGSFMuEvpog"
+  selfname: "javibot-DEV"
+bot:
+  tellTurnsOnStartup: false
